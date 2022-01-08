@@ -9,11 +9,27 @@
 
 ### Users Demo
 
+
+https://user-images.githubusercontent.com/87793995/148631856-3d5565cd-bead-4119-8d82-07fc6f763e42.mp4
+
+
 ### Thoughts Demo
+
+
+https://user-images.githubusercontent.com/87793995/148631863-95389dbc-27ff-4a7c-81bf-068863c967ad.mp4
+
 
 ### Reactions Demo
 
+
+https://user-images.githubusercontent.com/87793995/148631868-f93e0f9f-110b-4379-a545-74924f5df7d0.mp4
+
+
 ### Friends Demo
+
+
+https://user-images.githubusercontent.com/87793995/148631873-df9ff10c-1191-4dfc-9c3d-2dc7eeb7ddd6.mp4
+
 
 ## Description 
 
