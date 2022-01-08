@@ -31,7 +31,7 @@ const thoughtController = {
     })
     .catch(e => { console.log(e); res.status(500).json(e); });
   },
-  
+ 
   addThought(req, res) {
     console.log(``);
     console.log("client request to create a thought");

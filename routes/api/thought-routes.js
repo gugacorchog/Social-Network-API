@@ -31,13 +31,11 @@ router.route('/:id/users/:userId')
 
 //add a reaction
 //update a thought
-// /api/thoughts/:id/reactions/
 router.route('/:id/reactions/')
 .post(addReaction);
 
 //delete a reaction
 //update a thought
-// /api/thoughts/:id/reactions/<reactionId>
 router.route('/:id/reactions/:reactionId')
 .put(updateReaction)
 .delete(deleteReaction);
