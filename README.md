@@ -4,12 +4,16 @@
 ![Languages](https://img.shields.io/github/languages/top/gugacorchog/Social-Network-API)
 ![Languages](https://img.shields.io/github/languages/count/gugacorchog/Social-Network-API?color=black)
 ![Size](https://img.shields.io/github/repo-size/gugacorchog/Social-Network-API?color=red)
-
-
-#  ** URL Link  **
     
 ### Demo
 
+### Users Demo
+
+### Thoughts Demo
+
+### Reactions Demo
+
+### Friends Demo
 
 ## Description 
 
@@ -57,5 +61,6 @@ Questions? Let me know:
 
 #### [Gustavo Vas](mailto:gugacorchog@gmail.com)
 
+##
 ## ADD ME ON GITHUB 
 #### [Gustavo Vas](https://github.com/gugacorchog)
