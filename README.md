@@ -4,6 +4,27 @@
 ![Languages](https://img.shields.io/github/languages/top/gugacorchog/Social-Network-API)
 ![Languages](https://img.shields.io/github/languages/count/gugacorchog/Social-Network-API?color=black)
 ![Size](https://img.shields.io/github/repo-size/gugacorchog/Social-Network-API?color=red)
+
+
+## Description 
+
+#### AS A social media startup
+#### I WANT an API for my social network that uses a NoSQL database
+#### SO THAT my website can handle large amounts of unstructured data
+
+## Acceptance Criteria
+
+```md
+GIVEN a social network API
+WHEN I enter the command to invoke the application
+THEN my server is started and the Mongoose models are synced to the MongoDB database
+WHEN I open API GET routes in Insomnia for users and thoughts
+THEN the data for each of these routes is displayed in a formatted JSON
+WHEN I test API POST, PUT, and DELETE routes in Insomnia
+THEN I am able to successfully create, update, and delete users and thoughts in my database
+WHEN I test API POST and DELETE routes in Insomnia
+THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+```
     
 ### Demo
 
@@ -33,25 +54,7 @@ https://user-images.githubusercontent.com/87793995/148737348-9be5d2c0-ebd0-4edd-
 https://user-images.githubusercontent.com/87793995/148631873-df9ff10c-1191-4dfc-9c3d-2dc7eeb7ddd6.mp4
 
 
-## Description 
 
-#### AS A social media startup
-#### I WANT an API for my social network that uses a NoSQL database
-#### SO THAT my website can handle large amounts of unstructured data
-
-## Acceptance Criteria
-
-```md
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
-```
 
 ## Table of Contents 
 
