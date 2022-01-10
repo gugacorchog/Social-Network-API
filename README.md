@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/87793995/148631863-95389dbc-27ff-4a7c-
 ### Reactions Demo
 
 
-https://user-images.githubusercontent.com/87793995/148631868-f93e0f9f-110b-4379-a545-74924f5df7d0.mp4
+
 
 
 ### Friends Demo
@@ -70,7 +70,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ##### express: "^4.17.2",
 ##### moment: "^2.29.1",
 ##### mongoose: "^6.1.4"
-  
+##### nodemon": "^2.0.15"
 
 ## Question
 Questions? Let me know:  
